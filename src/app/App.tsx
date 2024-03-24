@@ -1,4 +1,3 @@
-import { Link } from 'react-router-dom'
 import { useTheme } from './providers/ThemeProvider'
 import { classNames } from 'shared/lib/classnames/classNames'
 import { AppRouter } from './providers/router'
